@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework2</string>
+    <string name="dca">DCA</string>
+    <string name="mars">MARS</string>
+    <string name="space_stations">Space Stations</string>
+    <string name="flights">Flights</string>
+    <string name="rovers">Rovers</string>
+    <string name="depart">DEPART</string>
+</resources>
