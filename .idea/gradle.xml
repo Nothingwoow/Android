@@ -12,6 +12,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/homework1" />
+            <option value="$PROJECT_DIR$/homework2" />
+            <option value="$PROJECT_DIR$/homework3" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
